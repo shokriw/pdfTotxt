@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir *.txt)",
+      "Bash(git config *)",
+      "Bash(git add *)"
+    ]
+  }
+}
