@@ -1,9 +1,3 @@
-To make your `README.md` look elegant and professional, you need to fix the formatting issues caused by the markdown content being compressed together in the current view. GitHub requires proper spacing (newlines) for markdown elements like lists and headers to render correctly.
-
-Here is the cleaned-up, professionally formatted version. You can copy and paste this directly into your `README.md` file.
-
-***
-
 # PDF-to-Text Converter
 
 A robust, cross-platform Python utility designed to convert PDF documents into plain text. This tool provides two distinct pathways: direct extraction for native text-based PDFs and OCR processing for scanned or image-based documents.
